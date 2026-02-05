@@ -1,1 +1,3 @@
-module MeshTalk
+module meshtalk
+
+go 1.25
